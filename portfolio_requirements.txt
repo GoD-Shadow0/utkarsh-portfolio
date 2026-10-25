@@ -1,0 +1,525 @@
+# Portfolio Website Requirements
+
+## 1. Personal Information
+
+**Full Name:** Utkarsh Raj
+
+**Profession/Title:** Full Stack Developer | Cloud & DevOps Enthusiast | AI/ML Explorer
+
+**Short Bio / About Me:**
+
+I am Utkarsh Raj, a final-year Computer Science Engineering student at SRM Institute of Science and Technology, Chennai. I enjoy building scalable web applications, exploring cloud technologies, and developing intelligent solutions using AI and machine learning.
+
+My technical interests include full-stack development, backend engineering, cloud infrastructure, DevOps automation, and generative AI. I enjoy solving practical problems, experimenting with new technologies, and continuously improving my development skills.
+
+I aim to build reliable, efficient, and visually engaging digital experiences while expanding my knowledge of modern software engineering and cloud-native technologies.
+
+## 2. Contact & Links
+
+**Email:** [utkarsh.raj9544@gmail.com](mailto:utkarsh.raj9544@gmail.com)
+
+**LinkedIn:** https://www.linkedin.com/in/utkarsh-raj-3387392b2
+
+**GitHub:** https://github.com/GoD-Shadow0
+
+**Twitter/X:** Not provided
+
+**Resume/CV:** https://drive.google.com/file/d/1ZCRcNZkjmTYhWF4NTZdZpqeFfEji7mXA/view?usp=sharing
+
+**Location:** Chennai, India
+
+**Education:** B.Tech in Computer Science Engineering, SRM Institute of Science and Technology
+
+## 3. Skills & Technologies
+
+Organize the skills into visually appealing categories with animated icons, interactive cards, and subtle hover effects.
+
+### Programming Languages
+
+* C++
+* Python
+* JavaScript
+* SQL
+
+### Frontend Development
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Vite
+* Tailwind CSS
+* Bootstrap
+* Responsive Web Design
+
+### Backend Development
+
+* Node.js
+* Express.js
+* NestJS
+* REST API Development
+* JWT Authentication
+* bcrypt Password Hashing
+
+### Databases and ORM
+
+* PostgreSQL
+* MySQL
+* Supabase
+* Neon PostgreSQL
+* Prisma ORM
+* Sequelize ORM
+
+### Cloud and DevOps
+
+* AWS Fundamentals
+* Google Cloud Platform Fundamentals
+* Microsoft Azure Fundamentals
+* Terraform
+* Docker
+* Docker Compose
+* Git
+* GitHub
+* Linux and Command-Line Tools
+
+### AI, Machine Learning and Data Science
+
+* Generative AI Fundamentals
+* Machine Learning
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Data Preprocessing
+* Model Training and Evaluation
+
+### Development Tools
+
+* Visual Studio Code
+* Postman
+* MySQL Workbench
+* Jupyter Notebook
+* GitHub
+
+**Important:** Display skills with different visual treatments based on category. Use animated progress indicators only if they represent meaningful proficiency levels. Do not invent certifications or claim professional expertise in technologies I am still learning.
+
+## 4. Projects
+
+Showcase the following projects using large, visually engaging project cards with descriptions, technology badges, hover animations, and links to GitHub repositories.
+
+The descriptions below are based on projects I have worked on. Add links only when actual repositories or live deployments are available.
+
+### Project 1: AI CloudOps Assistant
+
+**Category:** AI, Backend Engineering, Cloud and DevOps
+
+**Description:**
+
+An AI-assisted cloud operations project designed to explore how intelligent systems can help developers understand and manage cloud infrastructure more efficiently.
+
+The backend uses NestJS, Prisma, and PostgreSQL. The authentication workflow includes user registration, bcrypt password hashing, JWT-based login, and protected API endpoints.
+
+The project can be extended with AI-powered troubleshooting, infrastructure monitoring, log analysis, and cloud resource recommendations.
+
+**Technologies:** NestJS, TypeScript, Prisma ORM, PostgreSQL, Neon, JWT, bcrypt, REST APIs
+
+**GitHub:** To be added
+
+**Live Demo:** To be added
+
+**Display Note:** Mark planned AI and cloud monitoring features as in development until they are implemented.
+
+### Project 2: Restaurant Management System
+
+**Category:** Full Stack Development and Database Engineering
+
+**Description:**
+
+A database-driven restaurant management application designed to organize restaurant operations through structured data management.
+
+The system includes database entities for customers, staff, menu items, orders, order details, inventory, reservations, and suppliers. It demonstrates relational database design and the implementation of data management workflows.
+
+**Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
+
+**GitHub:** To be added
+
+**Live Demo:** To be added
+
+### Project 3: Startup Profit Predictor
+
+**Category:** Machine Learning and Data Science
+
+**Description:**
+
+A machine learning project that explores how business-related input variables can be used to estimate startup profitability.
+
+The project uses a dataset to train and evaluate a predictive model, demonstrating data preparation, feature processing, model training, and prediction workflows.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook
+
+**GitHub:** To be added
+
+**Live Demo:** To be added
+
+**Display Note:** Identify the dataset as synthetic if the model was trained using generated sample data. Do not present its predictions as validated real-world financial forecasts.
+
+### Project 4: IoT Forest Fire Detection and Alarm System
+
+**Category:** Internet of Things and Embedded Systems
+
+**Description:**
+
+An IoT-based forest fire detection concept designed to detect potential flames and generate an alert.
+
+The proposed hardware setup uses a KY-026 flame sensor, an Arduino ATmega328P, a buzzer, a battery, and an ESP8266 Wi-Fi module.
+
+The system explores sensor-based detection, local alarm generation, and the potential transmission of alerts over a wireless network.
+
+**Technologies:** Arduino, Embedded C/C++, KY-026 Flame Sensor, ESP8266, IoT
+
+**GitHub:** To be added
+
+**Live Demo:** To be added
+
+**Display Note:** Describe wireless alerts as implemented only if the complete communication workflow has been tested.
+
+### Project 5: Gamified Task Management Application
+
+**Category:** Full Stack Development
+
+**Description:**
+
+A task management application concept that combines productivity tracking with gamification.
+
+The application is designed around task management, user profiles, achievements, and progress tracking. Supabase provides backend services and database functionality.
+
+Potential enhancements include experience points, streaks, achievement badges, and visual progress dashboards.
+
+**Technologies:** React, JavaScript, Supabase, PostgreSQL, CSS
+
+**GitHub:** To be added
+
+**Live Demo:** To be added
+
+**Display Note:** Clearly distinguish implemented functionality from planned features.
+
+### Project 6: DDoS Detection Using Machine Learning
+
+**Category:** Cybersecurity and Machine Learning
+
+**Description:**
+
+A machine learning project focused on exploring how network traffic data can be analyzed to identify patterns associated with distributed denial-of-service attacks.
+
+The project can demonstrate dataset preparation, feature engineering, classification, and model evaluation.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook
+
+**GitHub:** To be added
+
+**Live Demo:** To be added
+
+**Display Note:** Add model performance metrics only after evaluating the trained model on an appropriate test dataset.
+
+## 5. Design Preferences
+
+### Overall Design Direction
+
+Create a premium, ambient, futuristic portfolio that feels like an interactive digital environment rather than a conventional developer template.
+
+The website should communicate technical ability, creativity, and attention to detail.
+
+**Theme:** Dark mode
+
+**Color Palette:**
+
+* Background: Near-black and deep midnight blue
+* Primary accent: Electric violet
+* Secondary accent: Cyan and icy blue
+* Additional accent: Soft magenta
+* Main text: Off-white
+* Secondary text: Cool gray
+
+**Visual Style:** Ambient, futuristic, minimal, cinematic, interactive, and polished.
+
+### Background and Atmosphere
+
+Create an immersive background with:
+
+* Animated radial gradients that slowly move across the screen.
+* Soft violet and blue ambient lighting.
+* Subtle floating particles.
+* A fine grain texture for depth.
+* Gentle glow effects around interactive elements.
+* Layered gradients that create a sense of space.
+* A subtle animated grid or abstract technical pattern in selected sections.
+
+The background should feel alive without distracting visitors from the content.
+
+Avoid excessive neon, strong flashing effects, and visual clutter.
+
+### Animation and Transition Requirements
+
+Use animations throughout the website, with a consistent motion style.
+
+**Page Load**
+
+* Smooth initial entrance animation.
+* Name and headline revealed through a subtle text animation.
+* Background gradients gradually fade into view.
+* Hero elements appear with staggered timing.
+
+**Scroll Animations**
+
+* Sections reveal themselves as they enter the viewport.
+* Project cards animate into position.
+* Skill categories appear with staggered delays.
+* About and education sections use subtle parallax effects.
+* Timeline elements animate progressively.
+
+**Hover Interactions**
+
+* Project cards lift slightly when hovered.
+* Borders develop a subtle gradient glow.
+* Buttons respond with smooth scaling and lighting.
+* Technology badges have small, controlled hover animations.
+* Navigation links use animated underlines or gradient indicators.
+
+**Mouse Interactions**
+
+* A subtle ambient light can follow the cursor on desktop.
+* Interactive cards may use a restrained 3D tilt effect.
+* Avoid excessive cursor trails or effects that interfere with usability.
+
+**Transitions**
+
+* Use smooth transitions between sections.
+* Add subtle page transitions if routing is implemented.
+* Use consistent easing curves and durations.
+* Keep interactions responsive and avoid unnecessary animation delays.
+
+**Performance Requirements**
+
+* Prefer CSS transforms and opacity for animation.
+* Use lightweight CSS or canvas effects instead of unnecessarily expensive rendering.
+* Lazy-load large project images.
+* Respect the user's reduced-motion preference.
+* Ensure animations work smoothly on mobile devices.
+
+## 6. Additional Sections
+
+Include the following sections in the website.
+
+### A. Hero Section
+
+The first screen should make a strong visual impression.
+
+Display:
+
+**UTKARSH RAJ**
+
+**Full Stack Developer | Cloud & DevOps Enthusiast**
+
+Suggested headline:
+
+"Building Digital Experiences. Exploring Intelligent Systems."
+
+Supporting description:
+
+"I build web applications, explore cloud infrastructure, and experiment with AI-driven solutions to solve real-world problems."
+
+Include two primary buttons:
+
+* Explore My Work
+* Get In Touch
+
+Also include:
+
+* GitHub and LinkedIn icons.
+* A subtle scroll indicator.
+* An ambient animated background.
+* A small availability badge that can be edited when my job search status changes.
+
+### B. About Me
+
+Present my background, technical interests, and development approach in a clean layout.
+
+Include three compact highlights:
+
+* Full Stack Development
+* Cloud and DevOps
+* AI and Machine Learning
+
+Use a balanced combination of text, cards, and subtle motion.
+
+### C. Technical Skills
+
+Group skills by category.
+
+Use interactive cards, recognizable technology icons, and subtle animations.
+
+Allow visitors to scan the technologies quickly without requiring excessive scrolling.
+
+### D. Featured Projects
+
+Make this one of the main sections of the website.
+
+Include:
+
+* Large project cards.
+* Project category labels.
+* Technology badges.
+* Short descriptions.
+* GitHub buttons.
+* Live demo buttons when available.
+* Hover animations and subtle ambient lighting.
+
+Include category filters such as:
+
+* All Projects
+* Full Stack
+* Cloud and DevOps
+* AI and Machine Learning
+* IoT
+
+Only display filters that have corresponding projects.
+
+### E. Education
+
+Display:
+
+**SRM Institute of Science and Technology, Chennai**
+
+**Degree:** Bachelor of Technology in Computer Science Engineering
+
+**Status:** Final Year
+
+Add graduation dates and academic achievements only after I provide the exact details.
+
+### F. Currently Exploring
+
+Create a compact section showing technologies and areas I am developing my skills in.
+
+Suggested topics:
+
+* Generative AI and Large Language Models
+* Cloud-Native Architecture
+* DevOps Automation
+* Backend System Design
+* Machine Learning Applications
+
+Present these as interests, not as claims of mastery.
+
+### G. Contact Section
+
+Use a visually distinctive contact section with a subtle glowing border or ambient gradient.
+
+Suggested headline:
+
+"Have an Interesting Idea? Let's Build It."
+
+Include:
+
+* Email address.
+* LinkedIn profile.
+* GitHub profile.
+* A copy-email button.
+* A contact form, if a backend or reliable form service is configured.
+
+The contact form should include name, email, subject, and message fields.
+
+Add validation and a clear success or error state. Do not show a fake success message if the submission was not delivered.
+
+### H. Footer
+
+Include:
+
+* Utkarsh Raj.
+* Email, GitHub, and LinkedIn links.
+* Copyright year generated dynamically.
+* A subtle back-to-top button.
+
+## 7. Technical Implementation Preferences
+
+Build the website using a modern, maintainable frontend stack.
+
+**Preferred Technologies:**
+
+* React
+* Vite
+* TypeScript, if practical
+* Tailwind CSS
+* Framer Motion or Motion for React
+* Lucide React for icons
+
+Use reusable components and a clear project structure.
+
+Potential components:
+
+* Navbar
+* HeroSection
+* AboutSection
+* SkillsSection
+* ProjectsSection
+* EducationSection
+* CurrentlyExploringSection
+* ContactSection
+* Footer
+* AmbientBackground
+
+### Responsive Design
+
+The website must work well on:
+
+* Desktop computers
+* Laptops
+* Tablets
+* Mobile phones
+
+On mobile, simplify heavy animations and avoid hover-dependent interactions.
+
+### SEO and Accessibility
+
+Include:
+
+* Appropriate page title and meta description.
+* Semantic HTML.
+* Descriptive link labels.
+* Keyboard-accessible navigation.
+* Sufficient text contrast.
+* Visible focus indicators.
+* Appropriate alternative text for images.
+* Reduced-motion support.
+
+### Code Quality
+
+* Use reusable components.
+* Keep content separate from presentation where practical.
+* Avoid unnecessary dependencies.
+* Optimize assets and animation performance.
+* Ensure all buttons and links have real functionality.
+* Do not invent project links, certifications, employment history, testimonials, or achievements.
+* Keep personal details and project information easy to update.
+
+## 8. Final Design Goal
+
+The final result should resemble a premium interactive developer portfolio with an atmospheric, cinematic visual identity.
+
+It should combine:
+
+* Ambient lighting.
+* Deep, immersive backgrounds.
+* Smooth scroll-triggered animations.
+* Staggered text reveals.
+* Interactive project cards.
+* Subtle parallax.
+* Gradient borders.
+* Elegant transitions.
+* Responsive layouts.
+* Clean typography and strong visual hierarchy.
+
+The design should feel sophisticated and technically impressive, not like a generic portfolio template.
+
+**Priority:** Visual quality, smooth animations, usability, responsive performance, and a professional presentation of my actual projects and skills.
+
+Build the experience so that the visual atmosphere immediately catches attention while the content remains easy to read and navigate.
